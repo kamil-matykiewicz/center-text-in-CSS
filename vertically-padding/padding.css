@@ -1,15 +1,13 @@
 /* this is the solution for the vertical-alignment-by-padding example */
 .center {
-    width: 50%;
-    margin: auto;
-    padding: 50px;
+    padding: 50px 0;
     background: gray;
 }
 
 
 /* two solutions from the previous horizontal case example; just for the sake of using what have been learned in previous example so it may look good*/
 .container {
-    width: 75vw;
+    width: 12.5vw;
     margin: auto;
     /* background: green; */
 }
