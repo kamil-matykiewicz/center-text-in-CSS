@@ -1,3 +1,7 @@
+/* To centre div, text & button horizontally, I style all three with:
+margin:auto;
+text-align:center; */
+
 div {
     width: 200px;
     margin: 100px auto 0;
