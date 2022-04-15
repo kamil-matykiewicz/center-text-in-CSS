@@ -5,6 +5,7 @@
 To achieve that, I style all three with:
 * marging
 * text-align  
+
 properties
 
 ## 2. Centre text vertically
