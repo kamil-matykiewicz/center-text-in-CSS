@@ -1,6 +1,7 @@
-/* this is the solution for the vertical-alignment-with-padding example */
+/* this is the solution for the vertical-alignment-with-line-height example */
 .center {
-    padding: 50px 0;
+    height: 150px;
+    line-height: 150px;
     background: gray;
 }
 
