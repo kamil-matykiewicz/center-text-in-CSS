@@ -10,5 +10,6 @@ properties
 
 ## 2. Centre text vertically
 
-For the methods below, the text will have to be contained by a parent element, like a div. I style either with the following properties:
+For the methods below, the text will have to be contained by a parent element, like a div. I style either with the following CSS properties:
 * padding
+* line-height
